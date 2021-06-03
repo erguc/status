@@ -1,7 +1,7 @@
 url: https://cip.tuik.gov.tr
-status: down
-code: 503
-responseTime: 691
-lastUpdated: 2021-06-03T16:04:36.633Z
+status: up
+code: 200
+responseTime: 1553
+lastUpdated: 2021-06-03T18:10:57.965Z
 startTime: Mon Dec 28 2020 10:47:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
