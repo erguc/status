@@ -4,7 +4,7 @@
     "url": "https://cip.tuik.gov.tr",
     "icon": "https://favicons.githubusercontent.com/cip.tuik.gov.tr",
     "slug": "cip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1053,
     "timeYear": 1119,
     "dailyMinutesDown": {
+      "2021-07-04": 0,
       "2021-06-03": 126,
       "2021-05-11": 16,
       "2021-03-10": 32
